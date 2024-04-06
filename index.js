@@ -1,3 +1,3 @@
-export * from './src/LoginWithSeek';
-export * from './src/SeekButton';
+export * from './src/SignInWith';
+// export * from './src/SeekButton';
 export * from './myModule';
